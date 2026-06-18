@@ -1,0 +1,801 @@
+request_id,request_text,blood_group,city,units_needed,response_hours,urgency_label
+REQ-2000,Gunshot wound patient in ICU. Needs O- emergency transfusion!,O-,Islamabad,3,2.64,urgent
+REQ-2001,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Islamabad,3,4.87,urgent
+REQ-2002,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Rawalpindi,3,2.69,urgent
+REQ-2003,Patient scheduled for elective surgery next week needs A+ blood.,A+,Islamabad,1,26.41,low
+REQ-2004,Routine pre-op prep requires B+ units by Friday.,B+,Rawalpindi,1,41.06,low
+REQ-2005,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,1,43.04,low
+REQ-2006,CRITICAL LIFE OR DEATH: Patient on ventilator needs A+ THIS MINUTE.,A+,Rawalpindi,5,0.57,critical
+REQ-2007,Emergency! RTA patient needs O- — 3 units NOW.,O-,Rawalpindi,3,3.87,urgent
+REQ-2008,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Rawalpindi,5,2.03,urgent
+REQ-2009,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,2,23.25,medium
+REQ-2010,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Islamabad,4,17.94,medium
+REQ-2011,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,1,41.29,low
+REQ-2012,"MAYDAY MAYDAY — PICU child bleeding, needs A+ now. Time = life.",A+,Rawalpindi,7,0.47,critical
+REQ-2013,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,2,23.98,medium
+REQ-2014,Multi-organ failure: AB- needed IN THE NEXT HOUR.,AB-,Rawalpindi,3,5.9,urgent
+REQ-2015,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Rawalpindi,2,9.85,medium
+REQ-2016,Dengue fever patient needs B+ platelets urgently.,B+,Rawalpindi,4,8.02,medium
+REQ-2017,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,4,3.17,urgent
+REQ-2018,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,2,18.22,medium
+REQ-2019,Surgery in 12 hours needs 2 units of A- blood.,A-,Islamabad,2,10.81,medium
+REQ-2020,"ICU patient BP crashing, massive transfusion needed: O+. CALL NOW.",O+,Islamabad,5,0.33,critical
+REQ-2021,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,2,69.83,low
+REQ-2022,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Rawalpindi,3,20.99,medium
+REQ-2023,Emergency! RTA patient needs AB+ — 3 units NOW.,AB+,Islamabad,3,1.03,urgent
+REQ-2024,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Rawalpindi,2,18.51,medium
+REQ-2025,Outpatient anemia treatment needs B+ donors.,B+,Rawalpindi,3,61.52,low
+REQ-2026,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,3,10.07,medium
+REQ-2027,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Rawalpindi,4,9.1,medium
+REQ-2028,Dengue fever patient needs O+ platelets urgently.,O+,Rawalpindi,3,11.33,medium
+REQ-2029,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,4,15.92,medium
+REQ-2030,Routine pre-op prep requires A+ units by Friday.,A+,Islamabad,2,56.65,low
+REQ-2031,Multi-organ failure: A- needed IN THE NEXT HOUR.,A-,Rawalpindi,3,2.87,urgent
+REQ-2032,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,4,5.27,urgent
+REQ-2033,"Minor procedure planned, looking for O+ donors.",O+,Rawalpindi,3,27.11,low
+REQ-2034,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,3,10.07,medium
+REQ-2035,Post-cardiac surgery critical bleed — A+ blood — SEND DONOR IMMEDIATELY.,A+,Rawalpindi,6,0.17,critical
+REQ-2036,Dengue fever patient needs A+ platelets urgently.,A+,Islamabad,4,17.8,medium
+REQ-2037,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Rawalpindi,2,64.32,low
+REQ-2038,Multi-organ failure: B- needed IN THE NEXT HOUR.,B-,Rawalpindi,5,5.91,urgent
+REQ-2039,Surgery in 12 hours needs 2 units of B+ blood.,B+,Islamabad,4,9.63,medium
+REQ-2040,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Islamabad,3,71.5,low
+REQ-2041,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Rawalpindi,3,5.93,urgent
+REQ-2042,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,2,6.98,medium
+REQ-2043,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,4,3.96,urgent
+REQ-2044,CODE RED at Holy Family — B+ O- NEEDED NOW OR PATIENT DIES.,B+,Rawalpindi,5,0.27,critical
+REQ-2045,Patient scheduled for elective surgery next week needs A- blood.,A-,Rawalpindi,2,55.36,low
+REQ-2046,Patient scheduled for elective surgery next week needs A+ blood.,A+,Rawalpindi,2,51.85,low
+REQ-2047,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Rawalpindi,4,3.13,urgent
+REQ-2048,"Minor procedure planned, looking for B+ donors.",B+,Rawalpindi,2,34.45,low
+REQ-2049,Cancer patient undergoing chemo needs A- blood ASAP.,A-,Rawalpindi,2,17.57,medium
+REQ-2050,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Rawalpindi,3,4.31,urgent
+REQ-2051,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Rawalpindi,5,4.19,urgent
+REQ-2052,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Islamabad,3,2.24,urgent
+REQ-2053,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,2,12.94,medium
+REQ-2054,Multi-organ failure: AB+ needed IN THE NEXT HOUR.,AB+,Islamabad,3,1.65,urgent
+REQ-2055,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,3,7.98,medium
+REQ-2056,Dengue fever patient needs B+ platelets urgently.,B+,Rawalpindi,4,6.63,medium
+REQ-2057,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,4,5.58,urgent
+REQ-2058,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,2,9.9,medium
+REQ-2059,CODE RED at Holy Family — O+ O- NEEDED NOW OR PATIENT DIES.,O+,Rawalpindi,7,0.89,critical
+REQ-2060,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,3,12.98,medium
+REQ-2061,Post-cardiac surgery critical bleed — B- blood — SEND DONOR IMMEDIATELY.,B-,Islamabad,7,0.6,critical
+REQ-2062,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,3,3.38,urgent
+REQ-2063,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,2,42.64,low
+REQ-2064,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,3,21.59,medium
+REQ-2065,Liver disease patient requires A- transfusion within hours.,A-,Rawalpindi,2,10.7,medium
+REQ-2066,Surgery in 12 hours needs 2 units of A+ blood.,A+,Rawalpindi,3,7.47,medium
+REQ-2067,"Patient admitted with B- blood shortage, transfusion needed today.",B-,Rawalpindi,2,19.24,medium
+REQ-2068,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,3,33.68,low
+REQ-2069,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Rawalpindi,2,16.35,medium
+REQ-2070,"Minor procedure planned, looking for O- donors.",O-,Rawalpindi,1,25.39,low
+REQ-2071,CRITICAL LIFE OR DEATH: Patient on ventilator needs B+ THIS MINUTE.,B+,Rawalpindi,6,0.47,critical
+REQ-2072,CRITICAL LIFE OR DEATH: Patient on ventilator needs O+ THIS MINUTE.,O+,Rawalpindi,7,0.79,critical
+REQ-2073,Multi-organ failure: AB+ needed IN THE NEXT HOUR.,AB+,Rawalpindi,5,3.06,urgent
+REQ-2074,"Patient admitted with O- blood shortage, transfusion needed today.",O-,Rawalpindi,3,18.48,medium
+REQ-2075,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,3,11.13,medium
+REQ-2076,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,2,35.21,low
+REQ-2077,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,3,10.79,medium
+REQ-2078,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,5,2.73,urgent
+REQ-2079,Routine pre-op prep requires A+ units by Friday.,A+,Islamabad,2,60.41,low
+REQ-2080,Liver disease patient requires B+ transfusion within hours.,B+,Rawalpindi,2,16.49,medium
+REQ-2081,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Islamabad,4,4.82,urgent
+REQ-2082,Dengue fever patient needs A- platelets urgently.,A-,Islamabad,4,19.12,medium
+REQ-2083,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,1,34.1,low
+REQ-2084,"ICU patient BP crashing, massive transfusion needed: B+. CALL NOW.",B+,Islamabad,6,0.63,critical
+REQ-2085,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,1,59.24,low
+REQ-2086,Post-cardiac surgery critical bleed — O+ blood — SEND DONOR IMMEDIATELY.,O+,Islamabad,5,0.94,critical
+REQ-2087,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,3,14.79,medium
+REQ-2088,PPH patient hemorrhaging — O- blood CRITICAL EMERGENCY.,O-,Rawalpindi,3,5.39,urgent
+REQ-2089,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Rawalpindi,4,2.64,urgent
+REQ-2090,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Islamabad,5,3.75,urgent
+REQ-2091,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Islamabad,3,29.41,low
+REQ-2092,"Minor procedure planned, looking for B+ donors.",B+,Islamabad,3,26.8,low
+REQ-2093,Routine pre-op prep requires A+ units by Friday.,A+,Rawalpindi,3,67.54,low
+REQ-2094,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,5,2.53,urgent
+REQ-2095,"Minor procedure planned, looking for A+ donors.",A+,Islamabad,2,39.71,low
+REQ-2096,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Rawalpindi,3,46.47,low
+REQ-2097,Outpatient anemia treatment needs AB+ donors.,AB+,Islamabad,3,59.91,low
+REQ-2098,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,3,32.96,low
+REQ-2099,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,4,2.86,urgent
+REQ-2100,Outpatient anemia treatment needs AB+ donors.,AB+,Rawalpindi,1,30.58,low
+REQ-2101,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Islamabad,3,64.18,low
+REQ-2102,Dengue fever patient needs A+ platelets urgently.,A+,Rawalpindi,3,8.71,medium
+REQ-2103,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,5,3.73,urgent
+REQ-2104,Routine pre-op prep requires O+ units by Friday.,O+,Islamabad,2,68.89,low
+REQ-2105,"Minor procedure planned, looking for O+ donors.",O+,Rawalpindi,1,53.34,low
+REQ-2106,PPH patient hemorrhaging — O- blood CRITICAL EMERGENCY.,O-,Rawalpindi,3,5.62,urgent
+REQ-2107,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Rawalpindi,3,47.11,low
+REQ-2108,Outpatient anemia treatment needs B+ donors.,B+,Rawalpindi,2,36.02,low
+REQ-2109,Routine pre-op prep requires B- units by Friday.,B-,Rawalpindi,2,71.23,low
+REQ-2110,"MAYDAY MAYDAY — PICU child bleeding, needs AB- now. Time = life.",AB-,Islamabad,7,0.47,critical
+REQ-2111,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Rawalpindi,4,3.41,urgent
+REQ-2112,Liver disease patient requires B+ transfusion within hours.,B+,Rawalpindi,2,16.06,medium
+REQ-2113,Dengue fever patient needs A+ platelets urgently.,A+,Rawalpindi,3,20.71,medium
+REQ-2114,Routine pre-op prep requires A- units by Friday.,A-,Rawalpindi,2,39.54,low
+REQ-2115,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,3,52.44,low
+REQ-2116,Dengue fever patient needs B+ platelets urgently.,B+,Islamabad,4,20.26,medium
+REQ-2117,PPH patient hemorrhaging — O- blood CRITICAL EMERGENCY.,O-,Rawalpindi,3,3.76,urgent
+REQ-2118,Surgery in 12 hours needs 2 units of AB- blood.,AB-,Islamabad,4,22.8,medium
+REQ-2119,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Islamabad,3,1.55,urgent
+REQ-2120,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,1,32.33,low
+REQ-2121,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,3,3.0,urgent
+REQ-2122,Cancer patient undergoing chemo needs AB- blood ASAP.,AB-,Islamabad,3,21.37,medium
+REQ-2123,"Minor procedure planned, looking for O+ donors.",O+,Rawalpindi,1,31.18,low
+REQ-2124,Outpatient anemia treatment needs A- donors.,A-,Islamabad,2,66.44,low
+REQ-2125,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,4,21.78,medium
+REQ-2126,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Islamabad,4,4.12,urgent
+REQ-2127,URGENT: Accident victim at PIMS needs O- blood immediately!,O-,Rawalpindi,4,5.8,urgent
+REQ-2128,Dengue fever patient needs O- platelets urgently.,O-,Rawalpindi,2,15.39,medium
+REQ-2129,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Islamabad,2,32.58,low
+REQ-2130,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Islamabad,3,1.38,urgent
+REQ-2131,Multi-organ failure: AB+ needed IN THE NEXT HOUR.,AB+,Rawalpindi,3,4.33,urgent
+REQ-2132,"Minor procedure planned, looking for A+ donors.",A+,Islamabad,1,33.85,low
+REQ-2133,URGENT: Accident victim at PIMS needs B- blood immediately!,B-,Islamabad,4,1.42,urgent
+REQ-2134,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,2,23.17,medium
+REQ-2135,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Rawalpindi,2,48.85,low
+REQ-2136,Gunshot wound patient in ICU. Needs AB+ emergency transfusion!,AB+,Rawalpindi,4,5.37,urgent
+REQ-2137,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Islamabad,3,2.36,urgent
+REQ-2138,Surgery in 12 hours needs 2 units of A+ blood.,A+,Rawalpindi,3,21.55,medium
+REQ-2139,Liver disease patient requires B+ transfusion within hours.,B+,Rawalpindi,3,20.15,medium
+REQ-2140,Routine pre-op prep requires B+ units by Friday.,B+,Rawalpindi,2,70.45,low
+REQ-2141,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,5,4.07,urgent
+REQ-2142,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Rawalpindi,3,48.31,low
+REQ-2143,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Rawalpindi,3,2.79,urgent
+REQ-2144,CODE RED at Holy Family — B+ O- NEEDED NOW OR PATIENT DIES.,B+,Rawalpindi,7,0.51,critical
+REQ-2145,"ICU patient BP crashing, massive transfusion needed: O+. CALL NOW.",O+,Rawalpindi,7,0.69,critical
+REQ-2146,Patient scheduled for elective surgery next week needs A+ blood.,A+,Rawalpindi,3,58.45,low
+REQ-2147,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,3,11.09,medium
+REQ-2148,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Islamabad,2,10.78,medium
+REQ-2149,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,3,1.43,urgent
+REQ-2150,Outpatient anemia treatment needs O- donors.,O-,Rawalpindi,3,64.77,low
+REQ-2151,Dengue fever patient needs O+ platelets urgently.,O+,Islamabad,3,23.52,medium
+REQ-2152,CODE RED at Holy Family — O- O- NEEDED NOW OR PATIENT DIES.,O-,Rawalpindi,5,0.84,critical
+REQ-2153,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Islamabad,4,2.19,urgent
+REQ-2154,Surgery in 12 hours needs 2 units of A+ blood.,A+,Rawalpindi,4,17.24,medium
+REQ-2155,Liver disease patient requires O+ transfusion within hours.,O+,Islamabad,4,20.67,medium
+REQ-2156,Dengue fever patient needs O+ platelets urgently.,O+,Islamabad,4,7.12,medium
+REQ-2157,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Rawalpindi,3,3.56,urgent
+REQ-2158,Patient scheduled for elective surgery next week needs A+ blood.,A+,Rawalpindi,3,68.2,low
+REQ-2159,CODE RED at Holy Family — O+ O- NEEDED NOW OR PATIENT DIES.,O+,Rawalpindi,7,0.92,critical
+REQ-2160,Outpatient anemia treatment needs O+ donors.,O+,Islamabad,1,48.88,low
+REQ-2161,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Rawalpindi,1,69.13,low
+REQ-2162,"Thalassemia follow-up, requires O- transfusion in 3 days.",O-,Islamabad,2,26.07,low
+REQ-2163,Surgery in 12 hours needs 2 units of O+ blood.,O+,Islamabad,3,6.18,medium
+REQ-2164,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,2,8.9,medium
+REQ-2165,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Islamabad,5,1.91,urgent
+REQ-2166,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Islamabad,3,21.25,medium
+REQ-2167,Cancer patient undergoing chemo needs B+ blood ASAP.,B+,Islamabad,2,16.48,medium
+REQ-2168,Gunshot wound patient in ICU. Needs B+ emergency transfusion!,B+,Rawalpindi,5,1.02,urgent
+REQ-2169,"Thalassemia follow-up, requires O- transfusion in 3 days.",O-,Rawalpindi,1,33.64,low
+REQ-2170,Cancer patient undergoing chemo needs AB+ blood ASAP.,AB+,Rawalpindi,2,13.57,medium
+REQ-2171,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Rawalpindi,1,56.35,low
+REQ-2172,Liver disease patient requires O+ transfusion within hours.,O+,Islamabad,4,13.7,medium
+REQ-2173,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,4,4.22,urgent
+REQ-2174,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Islamabad,3,3.59,urgent
+REQ-2175,PPH patient hemorrhaging — A- blood CRITICAL EMERGENCY.,A-,Islamabad,3,3.9,urgent
+REQ-2176,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Rawalpindi,2,52.16,low
+REQ-2177,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,3,20.34,medium
+REQ-2178,"MAYDAY MAYDAY — PICU child bleeding, needs B+ now. Time = life.",B+,Rawalpindi,5,0.65,critical
+REQ-2179,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,3,4.37,urgent
+REQ-2180,Dengue fever patient needs B+ platelets urgently.,B+,Islamabad,2,9.26,medium
+REQ-2181,Multi-organ failure: B- needed IN THE NEXT HOUR.,B-,Islamabad,5,4.27,urgent
+REQ-2182,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Islamabad,4,1.85,urgent
+REQ-2183,"MAYDAY MAYDAY — PICU child bleeding, needs O+ now. Time = life.",O+,Islamabad,7,0.41,critical
+REQ-2184,URGENT: Accident victim at PIMS needs AB+ blood immediately!,AB+,Islamabad,5,3.01,urgent
+REQ-2185,"Minor procedure planned, looking for O+ donors.",O+,Islamabad,1,41.09,low
+REQ-2186,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Islamabad,5,1.27,urgent
+REQ-2187,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Rawalpindi,3,2.51,urgent
+REQ-2188,URGENT: Accident victim at PIMS needs B+ blood immediately!,B+,Rawalpindi,3,4.17,urgent
+REQ-2189,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,3,1.87,urgent
+REQ-2190,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,2,7.64,medium
+REQ-2191,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Islamabad,4,3.71,urgent
+REQ-2192,Liver disease patient requires B+ transfusion within hours.,B+,Rawalpindi,4,17.79,medium
+REQ-2193,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,4,7.89,medium
+REQ-2194,Gunshot wound patient in ICU. Needs AB+ emergency transfusion!,AB+,Rawalpindi,4,2.01,urgent
+REQ-2195,CRITICAL LIFE OR DEATH: Patient on ventilator needs A+ THIS MINUTE.,A+,Rawalpindi,7,0.69,critical
+REQ-2196,"MAYDAY MAYDAY — PICU child bleeding, needs A+ now. Time = life.",A+,Islamabad,6,0.9,critical
+REQ-2197,Dengue fever patient needs O- platelets urgently.,O-,Islamabad,4,23.15,medium
+REQ-2198,Gunshot wound patient in ICU. Needs O- emergency transfusion!,O-,Rawalpindi,5,4.63,urgent
+REQ-2199,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Rawalpindi,5,4.81,urgent
+REQ-2200,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Rawalpindi,5,2.75,urgent
+REQ-2201,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,4,9.23,medium
+REQ-2202,Surgery in 12 hours needs 2 units of O+ blood.,O+,Islamabad,4,15.68,medium
+REQ-2203,"MAYDAY MAYDAY — PICU child bleeding, needs A- now. Time = life.",A-,Rawalpindi,6,0.46,critical
+REQ-2204,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,4,16.11,medium
+REQ-2205,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,4,12.97,medium
+REQ-2206,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,2,59.24,low
+REQ-2207,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,2,46.59,low
+REQ-2208,Surgery in 12 hours needs 2 units of A+ blood.,A+,Rawalpindi,4,15.08,medium
+REQ-2209,"MAYDAY MAYDAY — PICU child bleeding, needs B- now. Time = life.",B-,Islamabad,7,0.85,critical
+REQ-2210,Outpatient anemia treatment needs A- donors.,A-,Islamabad,3,41.46,low
+REQ-2211,Patient scheduled for elective surgery next week needs B+ blood.,B+,Islamabad,2,64.8,low
+REQ-2212,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,2,6.09,medium
+REQ-2213,Patient scheduled for elective surgery next week needs B+ blood.,B+,Rawalpindi,1,63.6,low
+REQ-2214,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,3,8.67,medium
+REQ-2215,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,4,5.63,urgent
+REQ-2216,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,4,11.64,medium
+REQ-2217,CODE RED at Holy Family — O+ O- NEEDED NOW OR PATIENT DIES.,O+,Rawalpindi,6,0.81,critical
+REQ-2218,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,3,2.17,urgent
+REQ-2219,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,5,2.35,urgent
+REQ-2220,Cancer patient undergoing chemo needs AB+ blood ASAP.,AB+,Islamabad,2,20.89,medium
+REQ-2221,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,1,68.76,low
+REQ-2222,Cancer patient undergoing chemo needs AB- blood ASAP.,AB-,Rawalpindi,2,10.23,medium
+REQ-2223,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Islamabad,4,4.37,urgent
+REQ-2224,Post-cardiac surgery critical bleed — A+ blood — SEND DONOR IMMEDIATELY.,A+,Islamabad,5,0.76,critical
+REQ-2225,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Islamabad,2,45.19,low
+REQ-2226,Cancer patient undergoing chemo needs B- blood ASAP.,B-,Islamabad,3,7.71,medium
+REQ-2227,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Rawalpindi,5,2.63,urgent
+REQ-2228,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Islamabad,5,5.79,urgent
+REQ-2229,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,3,23.26,medium
+REQ-2230,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Rawalpindi,3,39.69,low
+REQ-2231,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,4,15.71,medium
+REQ-2232,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Rawalpindi,5,1.32,urgent
+REQ-2233,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,2,16.04,medium
+REQ-2234,"MAYDAY MAYDAY — PICU child bleeding, needs B+ now. Time = life.",B+,Islamabad,5,0.58,critical
+REQ-2235,Patient scheduled for elective surgery next week needs AB+ blood.,AB+,Rawalpindi,2,29.48,low
+REQ-2236,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,4,4.64,urgent
+REQ-2237,Outpatient anemia treatment needs B- donors.,B-,Rawalpindi,1,28.46,low
+REQ-2238,Surgery in 12 hours needs 2 units of AB+ blood.,AB+,Rawalpindi,3,17.08,medium
+REQ-2239,Patient scheduled for elective surgery next week needs B+ blood.,B+,Rawalpindi,1,68.51,low
+REQ-2240,CODE RED at Holy Family — B- O- NEEDED NOW OR PATIENT DIES.,B-,Rawalpindi,6,0.55,critical
+REQ-2241,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Islamabad,3,3.4,urgent
+REQ-2242,URGENT: Accident victim at PIMS needs A- blood immediately!,A-,Rawalpindi,4,2.7,urgent
+REQ-2243,Dengue fever patient needs A- platelets urgently.,A-,Rawalpindi,3,17.86,medium
+REQ-2244,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,2,11.87,medium
+REQ-2245,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Rawalpindi,4,5.32,urgent
+REQ-2246,"MAYDAY MAYDAY — PICU child bleeding, needs A+ now. Time = life.",A+,Rawalpindi,6,0.45,critical
+REQ-2247,Patient scheduled for elective surgery next week needs A+ blood.,A+,Islamabad,2,41.11,low
+REQ-2248,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,4,16.18,medium
+REQ-2249,URGENT: Accident victim at PIMS needs A- blood immediately!,A-,Rawalpindi,5,3.51,urgent
+REQ-2250,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,2,21.62,medium
+REQ-2251,Multi-organ failure: B- needed IN THE NEXT HOUR.,B-,Rawalpindi,4,5.99,urgent
+REQ-2252,Outpatient anemia treatment needs O+ donors.,O+,Islamabad,2,38.27,low
+REQ-2253,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,4,4.11,urgent
+REQ-2254,Dengue fever patient needs O+ platelets urgently.,O+,Rawalpindi,4,20.62,medium
+REQ-2255,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,3,35.86,low
+REQ-2256,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,2,22.19,medium
+REQ-2257,Emergency! RTA patient needs AB- — 3 units NOW.,AB-,Islamabad,5,1.8,urgent
+REQ-2258,Dengue fever patient needs O+ platelets urgently.,O+,Islamabad,4,14.03,medium
+REQ-2259,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,4,17.28,medium
+REQ-2260,"MAYDAY MAYDAY — PICU child bleeding, needs B+ now. Time = life.",B+,Rawalpindi,6,0.15,critical
+REQ-2261,Patient scheduled for elective surgery next week needs O+ blood.,O+,Islamabad,3,32.48,low
+REQ-2262,Cancer patient undergoing chemo needs O- blood ASAP.,O-,Islamabad,4,23.79,medium
+REQ-2263,"MAYDAY MAYDAY — PICU child bleeding, needs O+ now. Time = life.",O+,Islamabad,5,0.68,critical
+REQ-2264,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Rawalpindi,5,5.2,urgent
+REQ-2265,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,4,6.67,medium
+REQ-2266,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Islamabad,2,7.4,medium
+REQ-2267,Surgery in 12 hours needs 2 units of AB+ blood.,AB+,Rawalpindi,4,22.8,medium
+REQ-2268,"Minor procedure planned, looking for A- donors.",A-,Islamabad,1,57.12,low
+REQ-2269,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,1,61.17,low
+REQ-2270,Post-cardiac surgery critical bleed — AB+ blood — SEND DONOR IMMEDIATELY.,AB+,Rawalpindi,7,0.45,critical
+REQ-2271,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,3,4.89,urgent
+REQ-2272,Multi-organ failure: B- needed IN THE NEXT HOUR.,B-,Rawalpindi,3,4.74,urgent
+REQ-2273,Multi-organ failure: B- needed IN THE NEXT HOUR.,B-,Islamabad,3,5.44,urgent
+REQ-2274,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,3,51.66,low
+REQ-2275,Gunshot wound patient in ICU. Needs O- emergency transfusion!,O-,Islamabad,3,1.86,urgent
+REQ-2276,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,5,1.56,urgent
+REQ-2277,Cancer patient undergoing chemo needs B- blood ASAP.,B-,Rawalpindi,4,23.56,medium
+REQ-2278,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Islamabad,4,3.91,urgent
+REQ-2279,Multi-organ failure: B+ needed IN THE NEXT HOUR.,B+,Rawalpindi,4,3.21,urgent
+REQ-2280,Surgery in 12 hours needs 2 units of B+ blood.,B+,Rawalpindi,2,10.51,medium
+REQ-2281,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Rawalpindi,3,7.65,medium
+REQ-2282,Patient scheduled for elective surgery next week needs A+ blood.,A+,Islamabad,3,65.51,low
+REQ-2283,Routine pre-op prep requires O+ units by Friday.,O+,Islamabad,1,28.5,low
+REQ-2284,Patient scheduled for elective surgery next week needs A- blood.,A-,Islamabad,1,56.77,low
+REQ-2285,Dengue fever patient needs O+ platelets urgently.,O+,Islamabad,3,10.78,medium
+REQ-2286,Patient scheduled for elective surgery next week needs B+ blood.,B+,Islamabad,2,42.04,low
+REQ-2287,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,4,10.07,medium
+REQ-2288,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,2,8.18,medium
+REQ-2289,CRITICAL LIFE OR DEATH: Patient on ventilator needs O- THIS MINUTE.,O-,Rawalpindi,5,0.55,critical
+REQ-2290,Outpatient anemia treatment needs O+ donors.,O+,Rawalpindi,3,69.4,low
+REQ-2291,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,3,14.41,medium
+REQ-2292,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,3,2.22,urgent
+REQ-2293,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Islamabad,4,5.31,urgent
+REQ-2294,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Islamabad,3,15.86,medium
+REQ-2295,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Rawalpindi,4,2.51,urgent
+REQ-2296,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,4,12.75,medium
+REQ-2297,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,4,5.37,urgent
+REQ-2298,Surgery in 12 hours needs 2 units of B+ blood.,B+,Islamabad,2,9.95,medium
+REQ-2299,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,2,50.54,low
+REQ-2300,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,4,20.6,medium
+REQ-2301,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Rawalpindi,4,4.79,urgent
+REQ-2302,Surgery in 12 hours needs 2 units of A+ blood.,A+,Islamabad,2,7.15,medium
+REQ-2303,Patient scheduled for elective surgery next week needs O+ blood.,O+,Islamabad,2,50.69,low
+REQ-2304,Surgery in 12 hours needs 2 units of AB+ blood.,AB+,Islamabad,2,23.16,medium
+REQ-2305,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,4,22.8,medium
+REQ-2306,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Islamabad,5,3.41,urgent
+REQ-2307,"Patient admitted with A- blood shortage, transfusion needed today.",A-,Rawalpindi,3,8.77,medium
+REQ-2308,Routine pre-op prep requires A+ units by Friday.,A+,Rawalpindi,2,60.8,low
+REQ-2309,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Islamabad,5,2.19,urgent
+REQ-2310,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Islamabad,3,22.57,medium
+REQ-2311,Routine pre-op prep requires B+ units by Friday.,B+,Islamabad,2,43.72,low
+REQ-2312,Dengue fever patient needs O+ platelets urgently.,O+,Islamabad,2,9.36,medium
+REQ-2313,CODE RED at Holy Family — A+ O- NEEDED NOW OR PATIENT DIES.,A+,Rawalpindi,6,0.44,critical
+REQ-2314,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Islamabad,3,3.12,urgent
+REQ-2315,Patient scheduled for elective surgery next week needs O+ blood.,O+,Islamabad,3,66.65,low
+REQ-2316,"Minor procedure planned, looking for O+ donors.",O+,Islamabad,1,59.84,low
+REQ-2317,Surgery in 12 hours needs 2 units of A+ blood.,A+,Islamabad,4,14.69,medium
+REQ-2318,CRITICAL LIFE OR DEATH: Patient on ventilator needs AB- THIS MINUTE.,AB-,Islamabad,5,0.55,critical
+REQ-2319,Routine pre-op prep requires O- units by Friday.,O-,Islamabad,3,25.94,low
+REQ-2320,Surgery in 12 hours needs 2 units of B+ blood.,B+,Islamabad,2,8.58,medium
+REQ-2321,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Islamabad,3,3.25,urgent
+REQ-2322,Surgery in 12 hours needs 2 units of A+ blood.,A+,Islamabad,4,15.23,medium
+REQ-2323,CRITICAL LIFE OR DEATH: Patient on ventilator needs O- THIS MINUTE.,O-,Rawalpindi,6,0.75,critical
+REQ-2324,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,5,4.41,urgent
+REQ-2325,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,4,3.8,urgent
+REQ-2326,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Rawalpindi,4,2.97,urgent
+REQ-2327,Liver disease patient requires B+ transfusion within hours.,B+,Islamabad,4,19.91,medium
+REQ-2328,Routine pre-op prep requires A+ units by Friday.,A+,Rawalpindi,2,57.01,low
+REQ-2329,Routine pre-op prep requires B+ units by Friday.,B+,Rawalpindi,2,37.68,low
+REQ-2330,Dengue fever patient needs A+ platelets urgently.,A+,Islamabad,3,7.62,medium
+REQ-2331,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,4,12.72,medium
+REQ-2332,Dengue fever patient needs B+ platelets urgently.,B+,Rawalpindi,3,22.94,medium
+REQ-2333,Surgery in 12 hours needs 2 units of B+ blood.,B+,Rawalpindi,3,20.21,medium
+REQ-2334,Multi-organ failure: B+ needed IN THE NEXT HOUR.,B+,Rawalpindi,5,4.97,urgent
+REQ-2335,Surgery in 12 hours needs 2 units of A+ blood.,A+,Rawalpindi,2,19.73,medium
+REQ-2336,"Minor procedure planned, looking for B+ donors.",B+,Rawalpindi,1,28.11,low
+REQ-2337,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Islamabad,3,4.56,urgent
+REQ-2338,Multi-organ failure: AB- needed IN THE NEXT HOUR.,AB-,Islamabad,4,1.55,urgent
+REQ-2339,"Thalassemia follow-up, requires A- transfusion in 3 days.",A-,Islamabad,2,35.85,low
+REQ-2340,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Rawalpindi,3,1.61,urgent
+REQ-2341,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Islamabad,4,4.94,urgent
+REQ-2342,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,3,28.06,low
+REQ-2343,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,4,5.77,urgent
+REQ-2344,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,5,2.06,urgent
+REQ-2345,"Minor procedure planned, looking for A+ donors.",A+,Islamabad,3,39.27,low
+REQ-2346,"Minor procedure planned, looking for O+ donors.",O+,Islamabad,1,32.93,low
+REQ-2347,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,3,10.9,medium
+REQ-2348,Surgery in 12 hours needs 2 units of A+ blood.,A+,Islamabad,2,7.71,medium
+REQ-2349,"MAYDAY MAYDAY — PICU child bleeding, needs AB- now. Time = life.",AB-,Islamabad,7,0.17,critical
+REQ-2350,Cancer patient undergoing chemo needs B+ blood ASAP.,B+,Rawalpindi,2,10.48,medium
+REQ-2351,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,3,11.91,medium
+REQ-2352,Multi-organ failure: A- needed IN THE NEXT HOUR.,A-,Rawalpindi,3,3.41,urgent
+REQ-2353,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,1,70.93,low
+REQ-2354,Routine pre-op prep requires AB+ units by Friday.,AB+,Rawalpindi,2,52.44,low
+REQ-2355,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Rawalpindi,3,5.01,urgent
+REQ-2356,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,1,69.01,low
+REQ-2357,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Islamabad,1,57.46,low
+REQ-2358,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Rawalpindi,1,37.49,low
+REQ-2359,Multi-organ failure: AB+ needed IN THE NEXT HOUR.,AB+,Islamabad,5,4.47,urgent
+REQ-2360,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Rawalpindi,4,4.81,urgent
+REQ-2361,Outpatient anemia treatment needs B+ donors.,B+,Islamabad,2,64.9,low
+REQ-2362,"MAYDAY MAYDAY — PICU child bleeding, needs O- now. Time = life.",O-,Rawalpindi,5,0.97,critical
+REQ-2363,PPH patient hemorrhaging — A- blood CRITICAL EMERGENCY.,A-,Islamabad,4,1.64,urgent
+REQ-2364,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Rawalpindi,3,1.62,urgent
+REQ-2365,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,3,11.63,medium
+REQ-2366,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Islamabad,3,10.66,medium
+REQ-2367,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Islamabad,4,2.24,urgent
+REQ-2368,CRITICAL LIFE OR DEATH: Patient on ventilator needs B- THIS MINUTE.,B-,Islamabad,7,0.54,critical
+REQ-2369,PPH patient hemorrhaging — O- blood CRITICAL EMERGENCY.,O-,Islamabad,5,3.34,urgent
+REQ-2370,Outpatient anemia treatment needs B+ donors.,B+,Islamabad,2,30.57,low
+REQ-2371,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,3,23.33,medium
+REQ-2372,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,2,59.4,low
+REQ-2373,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Rawalpindi,2,13.67,medium
+REQ-2374,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Rawalpindi,3,15.56,medium
+REQ-2375,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,2,23.73,medium
+REQ-2376,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,4,7.3,medium
+REQ-2377,"Thalassemia follow-up, requires A- transfusion in 3 days.",A-,Rawalpindi,1,43.6,low
+REQ-2378,Routine pre-op prep requires O+ units by Friday.,O+,Islamabad,2,66.47,low
+REQ-2379,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,2,17.12,medium
+REQ-2380,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,4,17.58,medium
+REQ-2381,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Rawalpindi,4,2.73,urgent
+REQ-2382,Routine pre-op prep requires A+ units by Friday.,A+,Islamabad,1,69.65,low
+REQ-2383,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Rawalpindi,2,10.56,medium
+REQ-2384,CRITICAL LIFE OR DEATH: Patient on ventilator needs B+ THIS MINUTE.,B+,Rawalpindi,5,0.79,critical
+REQ-2385,CODE RED at Holy Family — A+ O- NEEDED NOW OR PATIENT DIES.,A+,Islamabad,7,0.6,critical
+REQ-2386,"Minor procedure planned, looking for B+ donors.",B+,Rawalpindi,2,57.43,low
+REQ-2387,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,3,10.59,medium
+REQ-2388,"ICU patient BP crashing, massive transfusion needed: A+. CALL NOW.",A+,Rawalpindi,6,0.93,critical
+REQ-2389,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Rawalpindi,1,25.74,low
+REQ-2390,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,3,16.44,medium
+REQ-2391,Outpatient anemia treatment needs O- donors.,O-,Rawalpindi,2,59.84,low
+REQ-2392,"MAYDAY MAYDAY — PICU child bleeding, needs A+ now. Time = life.",A+,Rawalpindi,5,0.32,critical
+REQ-2393,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Rawalpindi,4,16.04,medium
+REQ-2394,CODE RED at Holy Family — O+ O- NEEDED NOW OR PATIENT DIES.,O+,Rawalpindi,7,0.42,critical
+REQ-2395,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Islamabad,3,5.9,urgent
+REQ-2396,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,4,18.22,medium
+REQ-2397,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Islamabad,3,2.39,urgent
+REQ-2398,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,3,34.12,low
+REQ-2399,Surgery in 12 hours needs 2 units of A+ blood.,A+,Rawalpindi,3,15.58,medium
+REQ-2400,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,2,23.47,medium
+REQ-2401,"ICU patient BP crashing, massive transfusion needed: O+. CALL NOW.",O+,Islamabad,5,0.68,critical
+REQ-2402,Liver disease patient requires O+ transfusion within hours.,O+,Islamabad,3,10.92,medium
+REQ-2403,Gunshot wound patient in ICU. Needs A- emergency transfusion!,A-,Rawalpindi,4,4.61,urgent
+REQ-2404,Routine pre-op prep requires B- units by Friday.,B-,Islamabad,3,68.67,low
+REQ-2405,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,4,5.48,urgent
+REQ-2406,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Rawalpindi,1,33.37,low
+REQ-2407,CODE RED at Holy Family — A+ O- NEEDED NOW OR PATIENT DIES.,A+,Islamabad,5,0.33,critical
+REQ-2408,Routine pre-op prep requires O+ units by Friday.,O+,Islamabad,1,37.67,low
+REQ-2409,Surgery in 12 hours needs 2 units of B+ blood.,B+,Rawalpindi,4,8.15,medium
+REQ-2410,"Minor procedure planned, looking for B+ donors.",B+,Islamabad,2,52.48,low
+REQ-2411,Cancer patient undergoing chemo needs AB+ blood ASAP.,AB+,Rawalpindi,2,22.48,medium
+REQ-2412,Post-cardiac surgery critical bleed — B+ blood — SEND DONOR IMMEDIATELY.,B+,Rawalpindi,6,0.69,critical
+REQ-2413,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,3,20.23,medium
+REQ-2414,"Minor procedure planned, looking for B+ donors.",B+,Islamabad,3,52.63,low
+REQ-2415,Cancer patient undergoing chemo needs B- blood ASAP.,B-,Rawalpindi,3,10.58,medium
+REQ-2416,Cancer patient undergoing chemo needs A- blood ASAP.,A-,Islamabad,2,23.0,medium
+REQ-2417,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,2,20.75,medium
+REQ-2418,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Islamabad,2,34.4,low
+REQ-2419,"ICU patient BP crashing, massive transfusion needed: AB+. CALL NOW.",AB+,Islamabad,6,0.48,critical
+REQ-2420,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,2,21.99,medium
+REQ-2421,CODE RED at Holy Family — A+ O- NEEDED NOW OR PATIENT DIES.,A+,Islamabad,5,0.57,critical
+REQ-2422,Gunshot wound patient in ICU. Needs AB+ emergency transfusion!,AB+,Islamabad,5,1.76,urgent
+REQ-2423,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Rawalpindi,5,2.69,urgent
+REQ-2424,Cancer patient undergoing chemo needs B+ blood ASAP.,B+,Rawalpindi,2,22.4,medium
+REQ-2425,CRITICAL LIFE OR DEATH: Patient on ventilator needs B+ THIS MINUTE.,B+,Islamabad,7,0.3,critical
+REQ-2426,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Islamabad,4,5.11,urgent
+REQ-2427,Routine pre-op prep requires O+ units by Friday.,O+,Islamabad,1,71.26,low
+REQ-2428,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Islamabad,2,46.74,low
+REQ-2429,Emergency! RTA patient needs AB+ — 3 units NOW.,AB+,Rawalpindi,4,2.05,urgent
+REQ-2430,Outpatient anemia treatment needs B+ donors.,B+,Islamabad,3,32.63,low
+REQ-2431,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Rawalpindi,5,1.6,urgent
+REQ-2432,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Islamabad,3,5.0,urgent
+REQ-2433,Dengue fever patient needs A+ platelets urgently.,A+,Islamabad,2,9.36,medium
+REQ-2434,CRITICAL LIFE OR DEATH: Patient on ventilator needs O+ THIS MINUTE.,O+,Rawalpindi,7,0.96,critical
+REQ-2435,Cancer patient undergoing chemo needs B+ blood ASAP.,B+,Rawalpindi,2,13.56,medium
+REQ-2436,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Rawalpindi,1,58.52,low
+REQ-2437,Surgery in 12 hours needs 2 units of A+ blood.,A+,Islamabad,2,18.59,medium
+REQ-2438,Routine pre-op prep requires O+ units by Friday.,O+,Islamabad,2,38.57,low
+REQ-2439,"MAYDAY MAYDAY — PICU child bleeding, needs O- now. Time = life.",O-,Rawalpindi,5,0.85,critical
+REQ-2440,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,3,3.71,urgent
+REQ-2441,Cancer patient undergoing chemo needs B+ blood ASAP.,B+,Islamabad,3,12.33,medium
+REQ-2442,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Rawalpindi,5,2.86,urgent
+REQ-2443,Liver disease patient requires AB- transfusion within hours.,AB-,Rawalpindi,2,18.13,medium
+REQ-2444,Dengue fever patient needs B+ platelets urgently.,B+,Islamabad,3,17.82,medium
+REQ-2445,Dengue fever patient needs B+ platelets urgently.,B+,Rawalpindi,4,13.8,medium
+REQ-2446,"ICU patient BP crashing, massive transfusion needed: AB-. CALL NOW.",AB-,Islamabad,7,0.72,critical
+REQ-2447,Dengue fever patient needs O+ platelets urgently.,O+,Islamabad,2,12.29,medium
+REQ-2448,Routine pre-op prep requires O- units by Friday.,O-,Rawalpindi,1,46.52,low
+REQ-2449,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Rawalpindi,4,1.78,urgent
+REQ-2450,Liver disease patient requires O+ transfusion within hours.,O+,Islamabad,3,13.37,medium
+REQ-2451,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Islamabad,3,4.03,urgent
+REQ-2452,Gunshot wound patient in ICU. Needs O- emergency transfusion!,O-,Islamabad,5,1.46,urgent
+REQ-2453,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,2,14.93,medium
+REQ-2454,Cancer patient undergoing chemo needs AB+ blood ASAP.,AB+,Islamabad,4,9.07,medium
+REQ-2455,Gunshot wound patient in ICU. Needs O- emergency transfusion!,O-,Islamabad,5,5.08,urgent
+REQ-2456,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,3,66.06,low
+REQ-2457,Dengue fever patient needs A+ platelets urgently.,A+,Islamabad,4,7.7,medium
+REQ-2458,Post-cardiac surgery critical bleed — AB- blood — SEND DONOR IMMEDIATELY.,AB-,Rawalpindi,5,0.51,critical
+REQ-2459,Surgery in 12 hours needs 2 units of B- blood.,B-,Rawalpindi,4,11.33,medium
+REQ-2460,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Islamabad,3,5.07,urgent
+REQ-2461,"ICU patient BP crashing, massive transfusion needed: A-. CALL NOW.",A-,Rawalpindi,5,0.75,critical
+REQ-2462,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Islamabad,5,5.44,urgent
+REQ-2463,Patient scheduled for elective surgery next week needs B- blood.,B-,Islamabad,3,62.97,low
+REQ-2464,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,2,22.67,medium
+REQ-2465,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,5,5.37,urgent
+REQ-2466,Emergency! RTA patient needs B- — 3 units NOW.,B-,Islamabad,3,1.78,urgent
+REQ-2467,Dengue fever patient needs A- platelets urgently.,A-,Rawalpindi,4,18.63,medium
+REQ-2468,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,3,15.39,medium
+REQ-2469,Patient scheduled for elective surgery next week needs A- blood.,A-,Rawalpindi,2,24.42,low
+REQ-2470,"Thalassemia follow-up, requires B- transfusion in 3 days.",B-,Islamabad,2,57.84,low
+REQ-2471,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Islamabad,5,2.36,urgent
+REQ-2472,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Rawalpindi,5,5.44,urgent
+REQ-2473,Gunshot wound patient in ICU. Needs A- emergency transfusion!,A-,Islamabad,3,1.49,urgent
+REQ-2474,Surgery in 12 hours needs 2 units of B+ blood.,B+,Islamabad,4,13.66,medium
+REQ-2475,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Islamabad,4,5.14,urgent
+REQ-2476,Liver disease patient requires AB- transfusion within hours.,AB-,Rawalpindi,3,11.36,medium
+REQ-2477,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,3,5.14,urgent
+REQ-2478,CODE RED at Holy Family — B+ O- NEEDED NOW OR PATIENT DIES.,B+,Islamabad,7,0.95,critical
+REQ-2479,CODE RED at Holy Family — A+ O- NEEDED NOW OR PATIENT DIES.,A+,Islamabad,6,0.55,critical
+REQ-2480,Emergency! RTA patient needs A- — 3 units NOW.,A-,Islamabad,3,2.79,urgent
+REQ-2481,Dengue fever patient needs B+ platelets urgently.,B+,Islamabad,3,9.37,medium
+REQ-2482,Surgery in 12 hours needs 2 units of B+ blood.,B+,Rawalpindi,4,22.08,medium
+REQ-2483,Multi-organ failure: B+ needed IN THE NEXT HOUR.,B+,Rawalpindi,3,4.45,urgent
+REQ-2484,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Rawalpindi,5,2.23,urgent
+REQ-2485,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,1,24.61,low
+REQ-2486,Patient scheduled for elective surgery next week needs O+ blood.,O+,Islamabad,2,60.28,low
+REQ-2487,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Islamabad,4,4.25,urgent
+REQ-2488,CRITICAL LIFE OR DEATH: Patient on ventilator needs B+ THIS MINUTE.,B+,Islamabad,5,0.23,critical
+REQ-2489,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Islamabad,4,9.68,medium
+REQ-2490,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Islamabad,3,3.19,urgent
+REQ-2491,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,1,58.52,low
+REQ-2492,URGENT: Accident victim at PIMS needs B+ blood immediately!,B+,Islamabad,4,1.11,urgent
+REQ-2493,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,4,5.43,urgent
+REQ-2494,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,1,41.84,low
+REQ-2495,"Minor procedure planned, looking for O+ donors.",O+,Islamabad,3,30.35,low
+REQ-2496,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,5,5.94,urgent
+REQ-2497,Gunshot wound patient in ICU. Needs A- emergency transfusion!,A-,Rawalpindi,3,1.91,urgent
+REQ-2498,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,5,1.22,urgent
+REQ-2499,Outpatient anemia treatment needs B- donors.,B-,Rawalpindi,2,44.33,low
+REQ-2500,Patient scheduled for elective surgery next week needs O+ blood.,O+,Rawalpindi,1,45.91,low
+REQ-2501,"MAYDAY MAYDAY — PICU child bleeding, needs O- now. Time = life.",O-,Rawalpindi,7,0.89,critical
+REQ-2502,Patient scheduled for elective surgery next week needs B- blood.,B-,Islamabad,1,64.47,low
+REQ-2503,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,2,65.12,low
+REQ-2504,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,4,4.9,urgent
+REQ-2505,"Patient admitted with B- blood shortage, transfusion needed today.",B-,Rawalpindi,2,19.69,medium
+REQ-2506,Dengue fever patient needs AB+ platelets urgently.,AB+,Rawalpindi,4,21.19,medium
+REQ-2507,Dengue fever patient needs A+ platelets urgently.,A+,Rawalpindi,4,22.84,medium
+REQ-2508,"MAYDAY MAYDAY — PICU child bleeding, needs AB- now. Time = life.",AB-,Islamabad,5,0.83,critical
+REQ-2509,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Rawalpindi,3,2.52,urgent
+REQ-2510,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,3,64.01,low
+REQ-2511,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,3,22.68,medium
+REQ-2512,Routine pre-op prep requires A+ units by Friday.,A+,Rawalpindi,2,26.5,low
+REQ-2513,Surgery in 12 hours needs 2 units of AB+ blood.,AB+,Islamabad,4,15.53,medium
+REQ-2514,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,3,53.41,low
+REQ-2515,Liver disease patient requires O+ transfusion within hours.,O+,Islamabad,2,16.99,medium
+REQ-2516,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,3,19.21,medium
+REQ-2517,Patient scheduled for elective surgery next week needs O+ blood.,O+,Rawalpindi,3,33.47,low
+REQ-2518,Patient scheduled for elective surgery next week needs B- blood.,B-,Rawalpindi,2,28.77,low
+REQ-2519,CODE RED at Holy Family — O+ O- NEEDED NOW OR PATIENT DIES.,O+,Rawalpindi,6,1.0,critical
+REQ-2520,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Islamabad,1,67.07,low
+REQ-2521,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Rawalpindi,5,3.21,urgent
+REQ-2522,Multi-organ failure: B+ needed IN THE NEXT HOUR.,B+,Rawalpindi,4,3.12,urgent
+REQ-2523,Surgery in 12 hours needs 2 units of O+ blood.,O+,Islamabad,3,12.28,medium
+REQ-2524,"MAYDAY MAYDAY — PICU child bleeding, needs B+ now. Time = life.",B+,Rawalpindi,7,0.9,critical
+REQ-2525,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,3,14.52,medium
+REQ-2526,Routine pre-op prep requires B+ units by Friday.,B+,Rawalpindi,1,41.84,low
+REQ-2527,Dengue fever patient needs O+ platelets urgently.,O+,Rawalpindi,4,23.44,medium
+REQ-2528,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,3,2.7,urgent
+REQ-2529,Dengue fever patient needs B+ platelets urgently.,B+,Rawalpindi,3,16.53,medium
+REQ-2530,CODE RED at Holy Family — B+ O- NEEDED NOW OR PATIENT DIES.,B+,Islamabad,6,0.45,critical
+REQ-2531,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Rawalpindi,3,5.87,urgent
+REQ-2532,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Rawalpindi,3,3.81,urgent
+REQ-2533,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Rawalpindi,2,7.32,medium
+REQ-2534,CODE RED at Holy Family — B+ O- NEEDED NOW OR PATIENT DIES.,B+,Rawalpindi,6,0.88,critical
+REQ-2535,Liver disease patient requires O+ transfusion within hours.,O+,Islamabad,4,9.94,medium
+REQ-2536,Patient scheduled for elective surgery next week needs A+ blood.,A+,Rawalpindi,3,42.75,low
+REQ-2537,Liver disease patient requires B- transfusion within hours.,B-,Rawalpindi,4,19.47,medium
+REQ-2538,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Islamabad,3,3.34,urgent
+REQ-2539,"Minor procedure planned, looking for B+ donors.",B+,Rawalpindi,1,41.36,low
+REQ-2540,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Rawalpindi,3,7.86,medium
+REQ-2541,CRITICAL LIFE OR DEATH: Patient on ventilator needs A+ THIS MINUTE.,A+,Rawalpindi,6,0.96,critical
+REQ-2542,Liver disease patient requires A- transfusion within hours.,A-,Rawalpindi,3,20.14,medium
+REQ-2543,Outpatient anemia treatment needs A- donors.,A-,Islamabad,1,34.02,low
+REQ-2544,CRITICAL LIFE OR DEATH: Patient on ventilator needs O- THIS MINUTE.,O-,Islamabad,6,0.57,critical
+REQ-2545,Patient scheduled for elective surgery next week needs B+ blood.,B+,Rawalpindi,1,71.16,low
+REQ-2546,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,2,17.01,medium
+REQ-2547,Surgery in 12 hours needs 2 units of A+ blood.,A+,Rawalpindi,3,11.92,medium
+REQ-2548,"Minor procedure planned, looking for B+ donors.",B+,Rawalpindi,1,37.67,low
+REQ-2549,Surgery in 12 hours needs 2 units of B+ blood.,B+,Rawalpindi,4,16.2,medium
+REQ-2550,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,3,5.25,urgent
+REQ-2551,Routine pre-op prep requires O+ units by Friday.,O+,Rawalpindi,1,43.54,low
+REQ-2552,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,1,26.0,low
+REQ-2553,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,1,63.73,low
+REQ-2554,Surgery in 12 hours needs 2 units of B- blood.,B-,Islamabad,3,19.88,medium
+REQ-2555,PPH patient hemorrhaging — O+ blood CRITICAL EMERGENCY.,O+,Rawalpindi,3,5.26,urgent
+REQ-2556,Routine pre-op prep requires A+ units by Friday.,A+,Rawalpindi,2,40.09,low
+REQ-2557,Dengue fever patient needs O+ platelets urgently.,O+,Rawalpindi,3,14.67,medium
+REQ-2558,"ICU patient BP crashing, massive transfusion needed: O+. CALL NOW.",O+,Rawalpindi,6,0.98,critical
+REQ-2559,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,4,16.64,medium
+REQ-2560,Dengue fever patient needs A+ platelets urgently.,A+,Islamabad,4,20.74,medium
+REQ-2561,Patient scheduled for elective surgery next week needs O+ blood.,O+,Rawalpindi,3,64.08,low
+REQ-2562,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Rawalpindi,5,2.27,urgent
+REQ-2563,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Rawalpindi,4,5.26,urgent
+REQ-2564,"MAYDAY MAYDAY — PICU child bleeding, needs O- now. Time = life.",O-,Rawalpindi,5,0.45,critical
+REQ-2565,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,3,64.38,low
+REQ-2566,PPH patient hemorrhaging — A+ blood CRITICAL EMERGENCY.,A+,Rawalpindi,3,2.91,urgent
+REQ-2567,Dengue fever patient needs O+ platelets urgently.,O+,Rawalpindi,3,22.01,medium
+REQ-2568,Dengue fever patient needs B+ platelets urgently.,B+,Rawalpindi,2,14.36,medium
+REQ-2569,"Minor procedure planned, looking for A+ donors.",A+,Islamabad,1,37.28,low
+REQ-2570,Cancer patient undergoing chemo needs A- blood ASAP.,A-,Islamabad,2,9.43,medium
+REQ-2571,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Rawalpindi,2,10.92,medium
+REQ-2572,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Islamabad,4,4.84,urgent
+REQ-2573,Liver disease patient requires O+ transfusion within hours.,O+,Islamabad,4,20.17,medium
+REQ-2574,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Rawalpindi,4,3.73,urgent
+REQ-2575,Outpatient anemia treatment needs A+ donors.,A+,Islamabad,1,50.04,low
+REQ-2576,Routine pre-op prep requires AB+ units by Friday.,AB+,Islamabad,1,64.13,low
+REQ-2577,Multi-organ failure: O- needed IN THE NEXT HOUR.,O-,Rawalpindi,5,4.95,urgent
+REQ-2578,Surgery in 12 hours needs 2 units of O+ blood.,O+,Islamabad,4,8.47,medium
+REQ-2579,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Rawalpindi,5,2.95,urgent
+REQ-2580,Liver disease patient requires O- transfusion within hours.,O-,Islamabad,3,7.95,medium
+REQ-2581,Post-cardiac surgery critical bleed — B+ blood — SEND DONOR IMMEDIATELY.,B+,Islamabad,5,0.46,critical
+REQ-2582,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Islamabad,2,15.44,medium
+REQ-2583,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,4,20.21,medium
+REQ-2584,"Thalassemia follow-up, requires AB+ transfusion in 3 days.",AB+,Rawalpindi,2,60.54,low
+REQ-2585,Emergency! RTA patient needs O- — 3 units NOW.,O-,Islamabad,4,4.29,urgent
+REQ-2586,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,5,2.91,urgent
+REQ-2587,Surgery in 12 hours needs 2 units of A+ blood.,A+,Rawalpindi,4,23.9,medium
+REQ-2588,PPH patient hemorrhaging — O- blood CRITICAL EMERGENCY.,O-,Islamabad,5,3.53,urgent
+REQ-2589,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,4,1.28,urgent
+REQ-2590,URGENT: Accident victim at PIMS needs B- blood immediately!,B-,Rawalpindi,5,2.54,urgent
+REQ-2591,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,1,30.45,low
+REQ-2592,Surgery in 12 hours needs 2 units of O+ blood.,O+,Islamabad,2,17.04,medium
+REQ-2593,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,3,22.48,medium
+REQ-2594,Dengue fever patient needs AB+ platelets urgently.,AB+,Islamabad,4,22.75,medium
+REQ-2595,Patient scheduled for elective surgery next week needs O- blood.,O-,Rawalpindi,3,30.02,low
+REQ-2596,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Rawalpindi,3,5.44,urgent
+REQ-2597,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,2,22.04,medium
+REQ-2598,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Islamabad,5,3.17,urgent
+REQ-2599,Emergency! RTA patient needs B- — 3 units NOW.,B-,Islamabad,4,5.96,urgent
+REQ-2600,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,2,15.48,medium
+REQ-2601,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,3,15.3,medium
+REQ-2602,Routine pre-op prep requires A+ units by Friday.,A+,Rawalpindi,1,25.2,low
+REQ-2603,Dengue fever patient needs AB+ platelets urgently.,AB+,Rawalpindi,2,22.67,medium
+REQ-2604,Liver disease patient requires O- transfusion within hours.,O-,Islamabad,2,9.59,medium
+REQ-2605,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Rawalpindi,1,65.69,low
+REQ-2606,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Islamabad,5,1.08,urgent
+REQ-2607,Patient scheduled for elective surgery next week needs B+ blood.,B+,Rawalpindi,3,65.23,low
+REQ-2608,"ICU patient BP crashing, massive transfusion needed: A+. CALL NOW.",A+,Islamabad,5,0.77,critical
+REQ-2609,CRITICAL LIFE OR DEATH: Patient on ventilator needs O+ THIS MINUTE.,O+,Islamabad,5,0.51,critical
+REQ-2610,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Islamabad,2,17.33,medium
+REQ-2611,Routine pre-op prep requires O+ units by Friday.,O+,Islamabad,2,64.17,low
+REQ-2612,Dengue fever patient needs A+ platelets urgently.,A+,Rawalpindi,4,23.38,medium
+REQ-2613,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,3,7.28,medium
+REQ-2614,Patient scheduled for elective surgery next week needs O- blood.,O-,Rawalpindi,1,63.75,low
+REQ-2615,"Minor procedure planned, looking for B+ donors.",B+,Rawalpindi,1,47.32,low
+REQ-2616,CRITICAL LIFE OR DEATH: Patient on ventilator needs O+ THIS MINUTE.,O+,Islamabad,6,0.12,critical
+REQ-2617,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,2,49.06,low
+REQ-2618,Patient scheduled for elective surgery next week needs B+ blood.,B+,Rawalpindi,1,37.37,low
+REQ-2619,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Rawalpindi,3,5.02,urgent
+REQ-2620,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Islamabad,5,3.14,urgent
+REQ-2621,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Rawalpindi,5,4.8,urgent
+REQ-2622,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Islamabad,2,10.04,medium
+REQ-2623,Emergency! RTA patient needs AB+ — 3 units NOW.,AB+,Islamabad,4,4.93,urgent
+REQ-2624,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Islamabad,1,71.46,low
+REQ-2625,Routine pre-op prep requires B+ units by Friday.,B+,Islamabad,1,59.03,low
+REQ-2626,Dengue fever patient needs A+ platelets urgently.,A+,Islamabad,3,15.07,medium
+REQ-2627,Liver disease patient requires B+ transfusion within hours.,B+,Islamabad,4,11.12,medium
+REQ-2628,Surgery in 12 hours needs 2 units of O+ blood.,O+,Islamabad,3,19.18,medium
+REQ-2629,Liver disease patient requires B+ transfusion within hours.,B+,Rawalpindi,4,8.23,medium
+REQ-2630,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,5,4.69,urgent
+REQ-2631,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Islamabad,2,6.41,medium
+REQ-2632,Dengue fever patient needs A+ platelets urgently.,A+,Islamabad,4,20.74,medium
+REQ-2633,Dengue fever patient needs A+ platelets urgently.,A+,Rawalpindi,3,13.56,medium
+REQ-2634,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Islamabad,4,5.6,urgent
+REQ-2635,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,1,46.46,low
+REQ-2636,Patient scheduled for elective surgery next week needs A+ blood.,A+,Islamabad,3,27.29,low
+REQ-2637,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Rawalpindi,4,1.8,urgent
+REQ-2638,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Islamabad,3,33.84,low
+REQ-2639,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Rawalpindi,3,1.35,urgent
+REQ-2640,Routine pre-op prep requires B- units by Friday.,B-,Islamabad,1,50.11,low
+REQ-2641,Dengue fever patient needs A+ platelets urgently.,A+,Rawalpindi,3,20.05,medium
+REQ-2642,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Islamabad,3,19.3,medium
+REQ-2643,Outpatient anemia treatment needs A+ donors.,A+,Islamabad,1,49.69,low
+REQ-2644,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,4,8.3,medium
+REQ-2645,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Islamabad,5,2.69,urgent
+REQ-2646,Patient scheduled for elective surgery next week needs AB+ blood.,AB+,Rawalpindi,3,69.29,low
+REQ-2647,Cancer patient undergoing chemo needs AB+ blood ASAP.,AB+,Islamabad,4,14.74,medium
+REQ-2648,Outpatient anemia treatment needs B+ donors.,B+,Islamabad,3,40.56,low
+REQ-2649,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Rawalpindi,5,2.5,urgent
+REQ-2650,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Rawalpindi,5,2.66,urgent
+REQ-2651,Dengue fever patient needs A+ platelets urgently.,A+,Rawalpindi,4,22.0,medium
+REQ-2652,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,5,4.84,urgent
+REQ-2653,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,1,28.98,low
+REQ-2654,Dengue fever patient needs O+ platelets urgently.,O+,Rawalpindi,2,13.4,medium
+REQ-2655,Post-cardiac surgery critical bleed — B- blood — SEND DONOR IMMEDIATELY.,B-,Islamabad,5,0.14,critical
+REQ-2656,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,2,50.82,low
+REQ-2657,Post-cardiac surgery critical bleed — B+ blood — SEND DONOR IMMEDIATELY.,B+,Rawalpindi,7,0.99,critical
+REQ-2658,Dengue fever patient needs A+ platelets urgently.,A+,Islamabad,3,19.69,medium
+REQ-2659,CODE RED at Holy Family — B+ O- NEEDED NOW OR PATIENT DIES.,B+,Rawalpindi,5,0.95,critical
+REQ-2660,"Patient admitted with B+ blood shortage, transfusion needed today.",B+,Islamabad,3,10.27,medium
+REQ-2661,Patient scheduled for elective surgery next week needs O+ blood.,O+,Rawalpindi,3,55.24,low
+REQ-2662,Routine pre-op prep requires A+ units by Friday.,A+,Islamabad,3,36.05,low
+REQ-2663,Outpatient anemia treatment needs AB+ donors.,AB+,Rawalpindi,3,28.0,low
+REQ-2664,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,3,15.07,medium
+REQ-2665,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Islamabad,4,23.72,medium
+REQ-2666,Multi-organ failure: B+ needed IN THE NEXT HOUR.,B+,Rawalpindi,5,4.53,urgent
+REQ-2667,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Islamabad,1,57.04,low
+REQ-2668,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,3,5.41,urgent
+REQ-2669,Dengue fever patient needs B+ platelets urgently.,B+,Rawalpindi,2,14.78,medium
+REQ-2670,Patient scheduled for elective surgery next week needs O+ blood.,O+,Rawalpindi,1,69.48,low
+REQ-2671,Gunshot wound patient in ICU. Needs B+ emergency transfusion!,B+,Islamabad,4,3.36,urgent
+REQ-2672,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Rawalpindi,4,1.1,urgent
+REQ-2673,Outpatient anemia treatment needs O+ donors.,O+,Rawalpindi,3,54.8,low
+REQ-2674,"Minor procedure planned, looking for B+ donors.",B+,Islamabad,2,45.38,low
+REQ-2675,Patient scheduled for elective surgery next week needs B+ blood.,B+,Rawalpindi,3,61.24,low
+REQ-2676,"MAYDAY MAYDAY — PICU child bleeding, needs A+ now. Time = life.",A+,Islamabad,5,0.31,critical
+REQ-2677,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,2,45.04,low
+REQ-2678,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Islamabad,4,4.46,urgent
+REQ-2679,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,2,8.53,medium
+REQ-2680,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,2,34.82,low
+REQ-2681,Outpatient anemia treatment needs A- donors.,A-,Rawalpindi,2,49.1,low
+REQ-2682,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Rawalpindi,1,42.86,low
+REQ-2683,Surgery in 12 hours needs 2 units of AB+ blood.,AB+,Rawalpindi,3,10.41,medium
+REQ-2684,"Patient admitted with AB- blood shortage, transfusion needed today.",AB-,Islamabad,3,16.72,medium
+REQ-2685,Emergency! RTA patient needs AB+ — 3 units NOW.,AB+,Rawalpindi,3,3.0,urgent
+REQ-2686,CODE RED at Holy Family — O+ O- NEEDED NOW OR PATIENT DIES.,O+,Rawalpindi,5,0.7,critical
+REQ-2687,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Rawalpindi,2,25.28,low
+REQ-2688,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Rawalpindi,2,21.59,medium
+REQ-2689,"ICU patient BP crashing, massive transfusion needed: B+. CALL NOW.",B+,Islamabad,5,0.79,critical
+REQ-2690,Outpatient anemia treatment needs AB+ donors.,AB+,Rawalpindi,3,59.72,low
+REQ-2691,Multi-organ failure: AB+ needed IN THE NEXT HOUR.,AB+,Rawalpindi,4,5.47,urgent
+REQ-2692,Emergency! RTA patient needs B- — 3 units NOW.,B-,Islamabad,3,1.18,urgent
+REQ-2693,Gunshot wound patient in ICU. Needs O+ emergency transfusion!,O+,Rawalpindi,3,2.37,urgent
+REQ-2694,"Minor procedure planned, looking for B+ donors.",B+,Rawalpindi,1,46.48,low
+REQ-2695,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Rawalpindi,4,1.14,urgent
+REQ-2696,"MAYDAY MAYDAY — PICU child bleeding, needs O+ now. Time = life.",O+,Islamabad,5,0.34,critical
+REQ-2697,Outpatient anemia treatment needs O+ donors.,O+,Rawalpindi,1,63.33,low
+REQ-2698,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Rawalpindi,5,6.0,urgent
+REQ-2699,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Islamabad,3,22.89,medium
+REQ-2700,Post-cardiac surgery critical bleed — B+ blood — SEND DONOR IMMEDIATELY.,B+,Islamabad,7,0.55,critical
+REQ-2701,"MAYDAY MAYDAY — PICU child bleeding, needs B+ now. Time = life.",B+,Rawalpindi,6,0.33,critical
+REQ-2702,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,3,13.95,medium
+REQ-2703,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,3,11.37,medium
+REQ-2704,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,4,16.47,medium
+REQ-2705,"Patient admitted with O+ blood shortage, transfusion needed today.",O+,Islamabad,2,19.49,medium
+REQ-2706,Multi-organ failure: A+ needed IN THE NEXT HOUR.,A+,Islamabad,4,2.45,urgent
+REQ-2707,Outpatient anemia treatment needs O+ donors.,O+,Islamabad,1,27.8,low
+REQ-2708,Gunshot wound patient in ICU. Needs B+ emergency transfusion!,B+,Islamabad,4,4.37,urgent
+REQ-2709,Patient scheduled for elective surgery next week needs O+ blood.,O+,Islamabad,1,48.52,low
+REQ-2710,PPH patient hemorrhaging — AB+ blood CRITICAL EMERGENCY.,AB+,Rawalpindi,4,2.21,urgent
+REQ-2711,Post-cardiac surgery critical bleed — O+ blood — SEND DONOR IMMEDIATELY.,O+,Islamabad,5,0.28,critical
+REQ-2712,"ICU patient BP crashing, massive transfusion needed: O+. CALL NOW.",O+,Rawalpindi,7,0.49,critical
+REQ-2713,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Islamabad,4,14.79,medium
+REQ-2714,Patient scheduled for elective surgery next week needs O- blood.,O-,Rawalpindi,1,60.65,low
+REQ-2715,Outpatient anemia treatment needs B+ donors.,B+,Islamabad,2,49.7,low
+REQ-2716,Surgery in 12 hours needs 2 units of AB+ blood.,AB+,Islamabad,4,21.49,medium
+REQ-2717,CRITICAL LIFE OR DEATH: Patient on ventilator needs A+ THIS MINUTE.,A+,Islamabad,7,0.99,critical
+REQ-2718,Surgery in 12 hours needs 2 units of AB+ blood.,AB+,Rawalpindi,3,6.11,medium
+REQ-2719,CRITICAL LIFE OR DEATH: Patient on ventilator needs B+ THIS MINUTE.,B+,Rawalpindi,7,0.27,critical
+REQ-2720,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,5,3.32,urgent
+REQ-2721,"ICU patient BP crashing, massive transfusion needed: O+. CALL NOW.",O+,Rawalpindi,5,0.49,critical
+REQ-2722,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,1,24.83,low
+REQ-2723,Patient scheduled for elective surgery next week needs O+ blood.,O+,Islamabad,3,69.82,low
+REQ-2724,Cancer patient undergoing chemo needs O+ blood ASAP.,O+,Rawalpindi,4,20.39,medium
+REQ-2725,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,4,4.79,urgent
+REQ-2726,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,2,68.33,low
+REQ-2727,URGENT: Accident victim at PIMS needs A+ blood immediately!,A+,Islamabad,5,5.16,urgent
+REQ-2728,"MAYDAY MAYDAY — PICU child bleeding, needs O+ now. Time = life.",O+,Rawalpindi,5,0.26,critical
+REQ-2729,Patient scheduled for elective surgery next week needs A- blood.,A-,Islamabad,1,53.6,low
+REQ-2730,Cancer patient undergoing chemo needs B+ blood ASAP.,B+,Islamabad,2,12.52,medium
+REQ-2731,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,2,13.33,medium
+REQ-2732,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Rawalpindi,3,5.24,urgent
+REQ-2733,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,3,45.56,low
+REQ-2734,Gunshot wound patient in ICU. Needs A+ emergency transfusion!,A+,Islamabad,4,5.99,urgent
+REQ-2735,"MAYDAY MAYDAY — PICU child bleeding, needs O+ now. Time = life.",O+,Rawalpindi,7,0.39,critical
+REQ-2736,Liver disease patient requires A+ transfusion within hours.,A+,Islamabad,2,22.21,medium
+REQ-2737,Dengue fever patient needs O+ platelets urgently.,O+,Rawalpindi,2,23.81,medium
+REQ-2738,CRITICAL LIFE OR DEATH: Patient on ventilator needs A+ THIS MINUTE.,A+,Rawalpindi,7,0.64,critical
+REQ-2739,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Rawalpindi,3,1.34,urgent
+REQ-2740,Cancer patient undergoing chemo needs B- blood ASAP.,B-,Rawalpindi,3,8.92,medium
+REQ-2741,Surgery in 12 hours needs 2 units of B+ blood.,B+,Rawalpindi,2,6.39,medium
+REQ-2742,PPH patient hemorrhaging — O- blood CRITICAL EMERGENCY.,O-,Rawalpindi,3,4.73,urgent
+REQ-2743,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,4,10.09,medium
+REQ-2744,Dengue fever patient needs O- platelets urgently.,O-,Rawalpindi,3,23.57,medium
+REQ-2745,Multi-organ failure: O+ needed IN THE NEXT HOUR.,O+,Rawalpindi,4,4.5,urgent
+REQ-2746,Surgery in 12 hours needs 2 units of O+ blood.,O+,Rawalpindi,2,6.6,medium
+REQ-2747,"MAYDAY MAYDAY — PICU child bleeding, needs A+ now. Time = life.",A+,Rawalpindi,7,0.35,critical
+REQ-2748,CRITICAL LIFE OR DEATH: Patient on ventilator needs B- THIS MINUTE.,B-,Rawalpindi,5,0.46,critical
+REQ-2749,Emergency! RTA patient needs B+ — 3 units NOW.,B+,Rawalpindi,3,4.11,urgent
+REQ-2750,"Minor procedure planned, looking for B+ donors.",B+,Rawalpindi,1,47.45,low
+REQ-2751,Routine pre-op prep requires O+ units by Friday.,O+,Islamabad,2,60.73,low
+REQ-2752,"Patient admitted with A- blood shortage, transfusion needed today.",A-,Rawalpindi,3,21.97,medium
+REQ-2753,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,3,21.18,medium
+REQ-2754,URGENT: Accident victim at PIMS needs AB+ blood immediately!,AB+,Islamabad,5,3.01,urgent
+REQ-2755,"ICU patient BP crashing, massive transfusion needed: B+. CALL NOW.",B+,Islamabad,6,0.14,critical
+REQ-2756,Patient scheduled for elective surgery next week needs A+ blood.,A+,Rawalpindi,2,55.49,low
+REQ-2757,Dengue fever patient needs A+ platelets urgently.,A+,Rawalpindi,4,22.0,medium
+REQ-2758,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,2,22.95,medium
+REQ-2759,Post-cardiac surgery critical bleed — A- blood — SEND DONOR IMMEDIATELY.,A-,Islamabad,5,0.23,critical
+REQ-2760,CRITICAL LIFE OR DEATH: Patient on ventilator needs O- THIS MINUTE.,O-,Rawalpindi,5,0.93,critical
+REQ-2761,Dengue fever patient needs O+ platelets urgently.,O+,Rawalpindi,3,12.57,medium
+REQ-2762,Dengue fever patient needs B+ platelets urgently.,B+,Rawalpindi,3,17.21,medium
+REQ-2763,PPH patient hemorrhaging — B+ blood CRITICAL EMERGENCY.,B+,Islamabad,4,2.25,urgent
+REQ-2764,Gunshot wound patient in ICU. Needs AB+ emergency transfusion!,AB+,Rawalpindi,5,2.55,urgent
+REQ-2765,Routine pre-op prep requires A+ units by Friday.,A+,Islamabad,1,50.73,low
+REQ-2766,CODE RED at Holy Family — O+ O- NEEDED NOW OR PATIENT DIES.,O+,Islamabad,5,0.53,critical
+REQ-2767,Outpatient anemia treatment needs O+ donors.,O+,Islamabad,1,41.07,low
+REQ-2768,CRITICAL LIFE OR DEATH: Patient on ventilator needs O+ THIS MINUTE.,O+,Rawalpindi,5,0.65,critical
+REQ-2769,Outpatient anemia treatment needs A- donors.,A-,Rawalpindi,2,27.31,low
+REQ-2770,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Rawalpindi,2,16.72,medium
+REQ-2771,"Thalassemia follow-up, requires O+ transfusion in 3 days.",O+,Islamabad,3,26.9,low
+REQ-2772,Liver disease patient requires A+ transfusion within hours.,A+,Rawalpindi,3,21.52,medium
+REQ-2773,PPH patient hemorrhaging — AB+ blood CRITICAL EMERGENCY.,AB+,Rawalpindi,3,2.7,urgent
+REQ-2774,"Minor procedure planned, looking for O+ donors.",O+,Islamabad,3,38.95,low
+REQ-2775,Emergency! RTA patient needs A+ — 3 units NOW.,A+,Islamabad,5,3.5,urgent
+REQ-2776,Patient scheduled for elective surgery next week needs AB+ blood.,AB+,Rawalpindi,3,46.9,low
+REQ-2777,Patient scheduled for elective surgery next week needs O+ blood.,O+,Rawalpindi,2,50.3,low
+REQ-2778,"Minor procedure planned, looking for O+ donors.",O+,Rawalpindi,2,38.1,low
+REQ-2779,URGENT: Accident victim at PIMS needs O+ blood immediately!,O+,Islamabad,3,5.18,urgent
+REQ-2780,Outpatient anemia treatment needs B+ donors.,B+,Islamabad,3,61.25,low
+REQ-2781,"Thalassemia follow-up, requires B+ transfusion in 3 days.",B+,Rawalpindi,1,27.96,low
+REQ-2782,URGENT: Accident victim at PIMS needs AB+ blood immediately!,AB+,Islamabad,3,2.06,urgent
+REQ-2783,"Patient admitted with A+ blood shortage, transfusion needed today.",A+,Rawalpindi,3,19.0,medium
+REQ-2784,"Thalassemia follow-up, requires A+ transfusion in 3 days.",A+,Islamabad,2,27.71,low
+REQ-2785,Cancer patient undergoing chemo needs O- blood ASAP.,O-,Rawalpindi,2,15.95,medium
+REQ-2786,Patient scheduled for elective surgery next week needs B+ blood.,B+,Rawalpindi,2,62.87,low
+REQ-2787,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Islamabad,2,23.29,medium
+REQ-2788,Liver disease patient requires B+ transfusion within hours.,B+,Islamabad,4,17.93,medium
+REQ-2789,Surgery in 12 hours needs 2 units of B+ blood.,B+,Islamabad,2,14.62,medium
+REQ-2790,"Minor procedure planned, looking for A+ donors.",A+,Rawalpindi,1,61.35,low
+REQ-2791,Outpatient anemia treatment needs A+ donors.,A+,Rawalpindi,3,28.15,low
+REQ-2792,Gunshot wound patient in ICU. Needs B+ emergency transfusion!,B+,Rawalpindi,4,5.95,urgent
+REQ-2793,"Minor procedure planned, looking for O+ donors.",O+,Rawalpindi,3,64.71,low
+REQ-2794,Liver disease patient requires O+ transfusion within hours.,O+,Rawalpindi,4,15.49,medium
+REQ-2795,Emergency! RTA patient needs O+ — 3 units NOW.,O+,Islamabad,3,1.47,urgent
+REQ-2796,Cancer patient undergoing chemo needs A+ blood ASAP.,A+,Rawalpindi,2,11.12,medium
+REQ-2797,CRITICAL LIFE OR DEATH: Patient on ventilator needs O+ THIS MINUTE.,O+,Rawalpindi,5,0.14,critical
+REQ-2798,CRITICAL LIFE OR DEATH: Patient on ventilator needs O- THIS MINUTE.,O-,Rawalpindi,7,0.68,critical
+REQ-2799,Surgery in 12 hours needs 2 units of B+ blood.,B+,Rawalpindi,3,6.4,medium
